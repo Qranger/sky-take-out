@@ -11,3 +11,8 @@ sky:
       access-key-id: LTAI5tGbvBTMFWG5bnRwcu9n
       access-key-secret: KqYovudQoXtmCWAmrdcmVqUnvPKYHC
       bucket-name: web-jyc
+  redis:
+    host: localhost
+    port: 6379
+    database: 10
+    timeout: 5000
