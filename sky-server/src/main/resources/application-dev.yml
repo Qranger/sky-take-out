@@ -16,3 +16,6 @@ sky:
     port: 6379
     database: 10
     timeout: 5000
+  wechat:
+    appid: wx44e1fcc90b82a3b8
+    secret: a06cc1ba86faa9718d3f57ae4453e9e4
